@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Search from './components/search/search';
-import Card from './components/card/cards';
+import Cards from './components/card/cards';
 import Detail from './components/detail/detail';
 import reportWebVitals from './reportWebVitals';
 
@@ -11,7 +11,7 @@ ReactDOM.render(
     <Detail/>
     <section id='main'>
       <Search/>
-      <Card/>
+      <Cards/>
     </section>
   </React.StrictMode>,
   document.getElementById('root')
