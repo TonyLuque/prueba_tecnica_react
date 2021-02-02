@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/prueba_tecnica_react/static/css/main.3385b945.chunk.css",
+    "main.css": "/prueba_tecnica_react/static/css/main.770a2df5.chunk.css",
     "main.js": "/prueba_tecnica_react/static/js/main.0f172943.chunk.js",
     "main.js.map": "/prueba_tecnica_react/static/js/main.0f172943.chunk.js.map",
     "runtime-main.js": "/prueba_tecnica_react/static/js/runtime-main.06e5df58.js",
@@ -10,14 +10,14 @@
     "static/js/3.39271789.chunk.js": "/prueba_tecnica_react/static/js/3.39271789.chunk.js",
     "static/js/3.39271789.chunk.js.map": "/prueba_tecnica_react/static/js/3.39271789.chunk.js.map",
     "index.html": "/prueba_tecnica_react/index.html",
-    "static/css/main.3385b945.chunk.css.map": "/prueba_tecnica_react/static/css/main.3385b945.chunk.css.map",
+    "static/css/main.770a2df5.chunk.css.map": "/prueba_tecnica_react/static/css/main.770a2df5.chunk.css.map",
     "static/js/2.3f9eab8b.chunk.js.LICENSE.txt": "/prueba_tecnica_react/static/js/2.3f9eab8b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/prueba_tecnica_react/static/media/globo-1.73e32cfc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.06e5df58.js",
     "static/js/2.3f9eab8b.chunk.js",
-    "static/css/main.3385b945.chunk.css",
+    "static/css/main.770a2df5.chunk.css",
     "static/js/main.0f172943.chunk.js"
   ]
 }
