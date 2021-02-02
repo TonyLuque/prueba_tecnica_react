@@ -1,11 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-//import App from './App';
+import Search from './components/search/search';
+import Card from './components/card/cards';
+import Detail from './components/detail/detail';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <h1>Hola Juy</h1>,
+  <React.StrictMode>
+    <Search/>
+    <Card/>
+    <Detail/>
+  </React.StrictMode>,
   document.getElementById('root')
 );
 
