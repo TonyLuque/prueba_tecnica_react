@@ -1,9 +1,9 @@
 .card {
-    width: 300px;
+    width: 250px;
     height: 182px;
     background-color: white;
     padding: 2rem 1.5rem;
-    margin: 1rem;
+    margin: 1rem 0;
 }
 
 .card article {
@@ -20,10 +20,16 @@
 }
 
 #temp {
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 700;
 }
 
 #time {
     font-size: 2rem;
+}
+
+@media (min-width:720px) {
+    .card {
+        margin: 1rem;
+    }
 }

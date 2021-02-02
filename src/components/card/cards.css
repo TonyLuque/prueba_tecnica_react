@@ -1,7 +1,5 @@
 #cards {
     width: 80%;
-    display: flex;
-    overflow-x: auto;
 }
 
 /* width */
@@ -24,4 +22,11 @@
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
     background: #aaa9a9; 
+  }
+
+  @media (min-width:720px) {
+    #cards {
+        display: flex;
+        overflow-x: auto;
+    }
   }
