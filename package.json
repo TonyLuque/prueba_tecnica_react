@@ -11,14 +11,14 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage":"https://tonyluque.github.io/prueba_tecnica_react/",
+  "homepage":"https://tonyluque.github.io/prueba_tecnica_react",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/TonyLuque/prueba_tecnica_react/"
+    "deploy": "gh-pages -b main -d build"
   },
   "eslintConfig": {
     "extends": [
