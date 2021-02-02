@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/prueba_tecnica_react/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/prueba_tecnica_react/static/js/main.079083dc.chunk.js",
-    "main.js.map": "/prueba_tecnica_react/static/js/main.079083dc.chunk.js.map",
-    "runtime-main.js": "/prueba_tecnica_react/static/js/runtime-main.adcddc82.js",
-    "runtime-main.js.map": "/prueba_tecnica_react/static/js/runtime-main.adcddc82.js.map",
-    "static/js/2.419c575f.chunk.js": "/prueba_tecnica_react/static/js/2.419c575f.chunk.js",
-    "static/js/2.419c575f.chunk.js.map": "/prueba_tecnica_react/static/js/2.419c575f.chunk.js.map",
-    "static/js/3.a38c5297.chunk.js": "/prueba_tecnica_react/static/js/3.a38c5297.chunk.js",
-    "static/js/3.a38c5297.chunk.js.map": "/prueba_tecnica_react/static/js/3.a38c5297.chunk.js.map",
+    "main.css": "/prueba_tecnica_react/static/css/main.47a3d90e.chunk.css",
+    "main.js": "/prueba_tecnica_react/static/js/main.6d93f627.chunk.js",
+    "main.js.map": "/prueba_tecnica_react/static/js/main.6d93f627.chunk.js.map",
+    "runtime-main.js": "/prueba_tecnica_react/static/js/runtime-main.8e47c480.js",
+    "runtime-main.js.map": "/prueba_tecnica_react/static/js/runtime-main.8e47c480.js.map",
+    "static/js/2.0cb40182.chunk.js": "/prueba_tecnica_react/static/js/2.0cb40182.chunk.js",
+    "static/js/2.0cb40182.chunk.js.map": "/prueba_tecnica_react/static/js/2.0cb40182.chunk.js.map",
+    "static/js/3.55a254ae.chunk.js": "/prueba_tecnica_react/static/js/3.55a254ae.chunk.js",
+    "static/js/3.55a254ae.chunk.js.map": "/prueba_tecnica_react/static/js/3.55a254ae.chunk.js.map",
     "index.html": "/prueba_tecnica_react/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/prueba_tecnica_react/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.419c575f.chunk.js.LICENSE.txt": "/prueba_tecnica_react/static/js/2.419c575f.chunk.js.LICENSE.txt"
+    "static/css/main.47a3d90e.chunk.css.map": "/prueba_tecnica_react/static/css/main.47a3d90e.chunk.css.map",
+    "static/js/2.0cb40182.chunk.js.LICENSE.txt": "/prueba_tecnica_react/static/js/2.0cb40182.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/prueba_tecnica_react/static/media/globo-1.73e32cfc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.adcddc82.js",
-    "static/js/2.419c575f.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.079083dc.chunk.js"
+    "static/js/runtime-main.8e47c480.js",
+    "static/js/2.0cb40182.chunk.js",
+    "static/css/main.47a3d90e.chunk.css",
+    "static/js/main.6d93f627.chunk.js"
   ]
 }
