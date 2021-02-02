@@ -8,9 +8,11 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Search/>
-    <Card/>
     <Detail/>
+    <section id='main'>
+      <Search/>
+      <Card/>
+    </section>
   </React.StrictMode>,
   document.getElementById('root')
 );

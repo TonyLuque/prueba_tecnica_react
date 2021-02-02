@@ -1,0 +1,12 @@
+#search_container {
+    width: 80%;
+    padding: 3rem 0;
+}
+
+input {
+    width: 100%;
+    border: none;
+    font-size: 1.6rem;
+    outline: none;
+    padding: 1rem 2.5rem;
+}

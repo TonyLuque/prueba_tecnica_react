@@ -4,8 +4,8 @@ import './search.css'
 class Search extends React.Component {
     render(){
         return (
-            <section className='search_container'>
-                <input type='text'></input>
+            <section id='search_container'>
+                <input type='text' placeholder='Search other cities...'></input>
             </section>
         )
     }

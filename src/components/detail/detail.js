@@ -5,16 +5,17 @@ class Detail extends React.Component {
     render() {
         return (
             <section id='detail_container'>
-                <p>Current city</p>
+                <p className='text'>Current city</p>
                 <p>Medellin</p>
-                <div>
+                <div className='weather'>
                     <img alt='icon'/>
-                    <p>28.6 C</p>
+                    <p className='temp'>28.6 C</p>
+                    <p className='main'>Sunny</p>
                 </div>
-                <p>285.93 Temp.min</p>
-                <p>289.15 Temp.max</p>
-                <p>288.38 Feels like</p>
-                <p>100 Humidity</p>
+                <p className='text'>285.93 Temp.min</p>
+                <p className='text'>289.15 Temp.max</p>
+                <p className='text'>288.38 Feels like</p>
+                <p className='text'>100 Humidity</p>
             </section>
         );
     }
