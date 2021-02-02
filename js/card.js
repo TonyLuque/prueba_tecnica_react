@@ -1,2 +1,0 @@
-const domContainer = document.querySelector('#card_container');
-ReactDOM.render(e(LikeButton), domContainer);
