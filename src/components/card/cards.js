@@ -14,7 +14,7 @@ class Cards extends React.Component {
         .then((res) => res.json())
         .then( data => {
             this.setState({cities: data.list})
-            console.log(data.list)
+            //console.log(data.list)
         })
     }
 
@@ -27,6 +27,7 @@ class Cards extends React.Component {
                         <Card 
                             key={index} 
                             city={city.name}
+                            country={city.sys.country}
                             icon={city.weather[0].icon}
                             time={city.weather[0].description}
                             temp={city.main.temp}

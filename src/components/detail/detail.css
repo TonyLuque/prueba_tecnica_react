@@ -9,6 +9,36 @@
     padding-top: 6rem;
 }
 
+.text_detail {
+    font-size: 1.6rem;
+    padding: 3rem 0;
+}
+
+.text_detail span {
+    margin-left: 4rem;
+}
+
+#city {
+    font-size: 4rem;
+    font-weight: 700;
+
+}
+
+.temp_detail {
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.main_detail {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.weather {
+    display: flex;
+    align-items: center;
+}
+
 @media (min-width:720px) {
     #detail_container {
         width: 320px;
